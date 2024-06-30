@@ -14,7 +14,7 @@ This is a simple yet functional Todo application built using React. It allows yo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/shyambabujayswal/todo-app.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
